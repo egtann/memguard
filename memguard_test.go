@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"testing"
 
-	"github.com/awnumar/memguard/core"
+	"github.com/egtann/memguard/core"
 )
 
 func TestScrambleBytes(t *testing.T) {

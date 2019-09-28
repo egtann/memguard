@@ -19,7 +19,7 @@ package stdin
 import (
 	"os"
 
-	"github.com/awnumar/memguard"
+	"github.com/egtann/memguard"
 )
 
 // ReadKeyFromStdin reads a key from standard inputs and returns it sealed inside an Enclave object.

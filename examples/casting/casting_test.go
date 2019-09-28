@@ -5,7 +5,7 @@ import (
 	"testing"
 	"unsafe"
 
-	"github.com/awnumar/memguard"
+	"github.com/egtann/memguard"
 )
 
 func TestByteArray10(t *testing.T) {
