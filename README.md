@@ -31,7 +31,7 @@ Full documentation and a complete overview of the API can be found [here](https:
 ## Installation
 
 ```
-$ go get github.com/awnumar/memguard
+$ go get github.com/egtann/memguard
 ```
 
 API is experimental and may have unstable changes. You should pin a version. [[modules](https://github.com/golang/go/wiki/Modules)]
