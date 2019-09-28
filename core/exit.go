@@ -3,7 +3,7 @@ package core
 import (
 	"os"
 
-	"github.com/awnumar/memcall"
+	"github.com/egtann/memcall"
 )
 
 /*

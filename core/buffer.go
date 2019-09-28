@@ -4,7 +4,7 @@ import (
 	"errors"
 	"sync"
 
-	"github.com/awnumar/memcall"
+	"github.com/egtann/memcall"
 )
 
 var (
